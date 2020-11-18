@@ -1,15 +1,15 @@
-.todo_List{
-    text-align: center;
+.todo_List {
+  text-align: center;
 }
 
 .format {
-    color: "white",
-    backgroundColor: "DodgerBlue",
-    padding: "10px",
-    fontFamily: "Arial"
-  };
+  color: 'white';
+  background-color: 'DodgerBlue';
+  padding: '10px';
+  font-family: 'Arial';
+}
 
-  /* position: 'absolute', 
+/* position: 'absolute', 
   left: '20%', 
   top: '30%',
   transform: 'translate(-50%, -50%)' */
